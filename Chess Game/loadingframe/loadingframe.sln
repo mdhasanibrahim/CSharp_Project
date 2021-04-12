@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loadingframe", "loadingframe.csproj", "{9EEBF59D-AD38-41E1-82C1-35CD069FA16B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGameForm", "..\ChessGameForm\ChessGameForm.csproj", "{2B7FF406-5BB8-4AE3-BCEB-A7DA20A05E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EEBF59D-AD38-41E1-82C1-35CD069FA16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEBF59D-AD38-41E1-82C1-35CD069FA16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEBF59D-AD38-41E1-82C1-35CD069FA16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEBF59D-AD38-41E1-82C1-35CD069FA16B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7FF406-5BB8-4AE3-BCEB-A7DA20A05E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7FF406-5BB8-4AE3-BCEB-A7DA20A05E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7FF406-5BB8-4AE3-BCEB-A7DA20A05E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7FF406-5BB8-4AE3-BCEB-A7DA20A05E40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FB5A235-A4F8-49E0-92F9-75F443320AD9}
+	EndGlobalSection
+EndGlobal

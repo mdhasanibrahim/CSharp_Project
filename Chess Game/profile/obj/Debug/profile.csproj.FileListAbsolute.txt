@@ -1,0 +1,28 @@
+C:\Users\Shashwata\Downloads\profile\bin\Debug\profile.exe.config
+C:\Users\Shashwata\Downloads\profile\bin\Debug\profile.exe
+C:\Users\Shashwata\Downloads\profile\bin\Debug\profile.pdb
+C:\Users\Shashwata\Downloads\profile\bin\Debug\MetroFramework.Design.dll
+C:\Users\Shashwata\Downloads\profile\bin\Debug\MetroFramework.dll
+C:\Users\Shashwata\Downloads\profile\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Shashwata\Downloads\profile\obj\Debug\profile.csprojAssemblyReference.cache
+C:\Users\Shashwata\Downloads\profile\obj\Debug\profile.Form1.resources
+C:\Users\Shashwata\Downloads\profile\obj\Debug\profile.Properties.Resources.resources
+C:\Users\Shashwata\Downloads\profile\obj\Debug\profile.csproj.GenerateResource.cache
+C:\Users\Shashwata\Downloads\profile\obj\Debug\profile.csproj.CoreCompileInputs.cache
+C:\Users\Shashwata\Downloads\profile\obj\Debug\profile.csproj.CopyComplete
+C:\Users\Shashwata\Downloads\profile\obj\Debug\profile.exe
+C:\Users\Shashwata\Downloads\profile\obj\Debug\profile.pdb
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\bin\Debug\profile.exe.config
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\bin\Debug\profile.exe
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\bin\Debug\profile.pdb
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\bin\Debug\MetroFramework.Design.dll
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\bin\Debug\MetroFramework.dll
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\bin\Debug\MetroFramework.Fonts.dll
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\obj\Debug\profile.csprojAssemblyReference.cache
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\obj\Debug\profile.ProfileForm.resources
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\obj\Debug\profile.Properties.Resources.resources
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\obj\Debug\profile.csproj.GenerateResource.cache
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\obj\Debug\profile.csproj.CoreCompileInputs.cache
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\obj\Debug\profile.csproj.CopyComplete
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\obj\Debug\profile.exe
+E:\Users\mdhas\OneDrive\Desktop\C# Project\profile\obj\Debug\profile.pdb
